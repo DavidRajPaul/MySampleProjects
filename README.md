@@ -1,2 +1,2 @@
 # MySampleProjects
-My Sample projects repositories
+My Sample projects repository
